@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS, Node JS, Tailwind Css**
 
-- 👨‍💻 All of my projects are available at [https://asadmash.github.io/portfolio-website/](https://asadmash.github.io/portfolio-website/)
+- 👨‍💻 All of my projects are available at [https://asadmash.github.io/portfolio-website/](https://asadmash.github.io/portfolio-website/)](https://github.com/asadmash/portfolio-projects)
 
 - 💬 Ask me about **Javascript, React JS**
 
