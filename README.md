@@ -23,7 +23,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![NextJS](https://img.shields.io/badge/-Next.JS-000?&logo=Next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind.CSS-000?&logo=Tailwind.css)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=scss)
+![SCSS](https://img.shields.io/badge/-scss-000?&logo=scss)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadmash&show_icons=true&locale=en&layout=compact" alt="asadmash" /></p>
 
