@@ -13,7 +13,22 @@
 
 - 📄 Know about my experiences https://asadmash.vercel.app/
 
-### Connect with me
+### 🌐 Connect with Me  
+
+<p align="left">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://dev.to/YOUR_DEVTO_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" />
+  </a>
+</p>
 
 
 ### Languages
