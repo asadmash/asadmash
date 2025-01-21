@@ -20,10 +20,10 @@
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?&logo=TypeScript)
 ![NextJS](https://img.shields.io/badge/-Next.JS-000?&logo=Next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind.cSS-000?&logo=tailwindcss)
-![SCSS](https://img.shields.io/badge/-scss-000?&logo=scss)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind.cSS-teal?&logo=tailwindcss)
+![SCSS](https://img.shields.io/badge/-scss-pink?&logo=scss)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadmash&show_icons=true&locale=en&layout=compact" alt="asadmash" /></p>
 
