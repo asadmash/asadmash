@@ -24,16 +24,19 @@
 ![SCSS](https://img.shields.io/badge/|-SCSS-pink?&logo=sass)
 
 ## 🚀 Technologies & Tools  
+<!-- -->  
+
 <p align="left">
-  <img src="https://img.shields.io/badge/-Framer%20Motion-FF0080?style=flat&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Framer%20Motion-050505?style=flat&logo=framer&logoColor=FF0080" />
+  <img src="https://img.shields.io/badge/-GSAP-222222?style=flat&logo=greensock&logoColor=88CE02" />
+  <img src="https://img.shields.io/badge/-Three.js-101010?style=flat&logo=three.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-WordPress-1E1E1E?style=flat&logo=wordpress&logoColor=21759B" />
+  <img src="https://img.shields.io/badge/-Shopify-2C2C2C?style=flat&logo=shopify&logoColor=7AB55C" />
+  <img src="https://img.shields.io/badge/-Git-171717?style=flat&logo=git&logoColor=F05033" />
+  <img src="https://img.shields.io/badge/-GitHub-24292E?style=flat&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Docker-00599C?style=flat&logo=docker&logoColor=0db7ed" />
 </p>
+
 
 
 
