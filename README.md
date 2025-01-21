@@ -24,14 +24,17 @@
 ![SCSS](https://img.shields.io/badge/|-SCSS-pink?&logo=sass)
 
 ## 🚀 Technologies & Tools  
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23FF0080.svg?style=flat&logo=framer&logoColor=white)  
-![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=flat&logo=greensock&logoColor=white)  
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat&logo=three.js&logoColor=white)  
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=wordpress&logoColor=white)  
-![Shopify](https://img.shields.io/badge/Shopify-%237AB55C.svg?style=flat&logo=shopify&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230086ED.svg?style=flat&logo=docker&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Framer%20Motion-FF0080?style=flat&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white" />
+</p>
+
 
 
 
