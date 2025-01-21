@@ -13,9 +13,8 @@
 
 - 📄 Know about my experiences https://asadmash.vercel.app/
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Connect with me
+
 
 ### Languages
 
@@ -24,6 +23,18 @@
 ![NextJS](https://img.shields.io/badge/|-Next.JS-000?&logo=Next.js)
 ![Tailwind CSS](https://img.shields.io/badge/|-Tailwind.cSS-teal?&logo=tailwindcss)
 ![SCSS](https://img.shields.io/badge/|-SCSS-pink?&logo=sass)
+
+
+## 🚀 Technologies & Tools  
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23FF0080.svg?style=for-the-badge&logo=framer&logoColor=white)  
+![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)  
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)   
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)  
+![Shopify](https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230086ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadmash&show_icons=true&locale=en&layout=compact" alt="asadmash" /></p>
 
