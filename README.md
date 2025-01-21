@@ -19,7 +19,7 @@
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![NextJS](https://img.shields.io/badge/-Next.JS-000?&logo=Next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind.cSS-000?&logo=tailwindcss)
