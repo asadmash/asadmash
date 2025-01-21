@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mdasad.mash@gmail.com**
 
-- 📄 Know about my experiences (https://asadmash.vercel.app/)
+- 📄 Know about my experiences https://asadmash.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
