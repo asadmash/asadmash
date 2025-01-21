@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript, React JS**
 
-- 📫 How to reach me ![mdasad.mash@gmail.com](https://img.shields.io/badge/|-gmail-000?&logo=gmail)
+- 📫 How to reach me ![mdasad.mash@gmail.com](https://img.shields.io/badge/|-mdasad.mash@gmail.com-purple?&logo=gmail)
 
 - 📄 Know about my experiences https://asadmash.vercel.app/
 
