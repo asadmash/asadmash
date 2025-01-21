@@ -17,7 +17,6 @@
 
 
 ### Languages
-
 ![JavaScript](https://img.shields.io/badge/|-JavaScript-yellow?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/|-TypeScript-blue?&logo=TypeScript)
 ![NextJS](https://img.shields.io/badge/|-Next.JS-000?&logo=Next.js)
